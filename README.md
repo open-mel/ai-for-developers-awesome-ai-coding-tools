@@ -178,6 +178,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's open-source terminal coding agent with free Gemini 3 Pro access and 1M token context.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent supporting 75+ providers with multi-session support. Free.
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)** – GitHub's AI assistant for command-line with context-aware suggestions.
+- [Mel – the agentic terminal](https://www.openmel.dev) - The agentic team for coding: a multi-agent, multi-model AI terminal for macOS, Windows, Linux and VS Code. Free with your own API key; Pro from $20/month. Proprietary.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)** – ChatGPT integration for shell command generation and system administration.
 - **[Aider](https://github.com/paul-gauthier/aider)** – Open-source terminal AI pair programmer with deep git integration; every AI edit is auto-committed.
 - **[AICommits](https://github.com/Nutlope/aicommits)** – AI-powered meaningful git commit message generation.
